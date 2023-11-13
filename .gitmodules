@@ -1,0 +1,3 @@
+[submodule "builder/extras/rknn"]
+	path = builder/extras/rknn
+	url = https://github.com/rockchip-linux/rknn-toolkit2
